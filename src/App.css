@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  padding-top: 40px;
+}
+
+.btn-style {
+  background-color: blue;
+  border-radius: 10px;
+  font-size: 25px;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 }
 
 .App-logo {
